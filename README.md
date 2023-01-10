@@ -55,3 +55,4 @@ docker run -it exp:v1
 ```
 export FLASK_APP=api/app.py ; flask run
 ```
+To trigger the github actions
